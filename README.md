@@ -1,1 +1,1 @@
-# spotifys-clone
+# myntra clone
